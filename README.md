@@ -3,8 +3,6 @@ Hello there
 <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"> 
 </h1>
 
----
-
 <h3 align = "center">My name is Divin and this is my GitHub page 😌</h3>
 
 <p align = "center">
