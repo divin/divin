@@ -8,7 +8,7 @@ Hello there 👋
 
 <p align = "center"> Here are some games I have created. </p>
 
-* [**🐣 Flappy Godot**](https://github.com/divin/Flappy-Godot), a very simple Flappy Bird clone made in Godot 4. It can be used as a template to create your own Flappy Bird clone.
+* [**🐣 Flappy Godot**](https://github.com/divin/flappy-godot), a very simple Flappy Bird clone made in Godot 4. It can be used as a template to create your own Flappy Bird clone.
 
 ## Game Jam Submissions
 
