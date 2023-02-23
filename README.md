@@ -6,9 +6,11 @@ Hello there 👋
 
 ## Games
 
-<p align = "center"> Here are some games I have created. </p>
+<p align = "center"> Here are some games I have made. The link will take you to the GitHub repository or the itch.io page. </p>
 
 * [**🐣 Flappy Godot**](https://github.com/divin/flappy-godot), a very simple Flappy Bird clone made in Godot 4. It can be used as a template to create your own Flappy Bird clone.
+
+* [**🐥 Flappy Raven**](https://divins.itch.io/flappy-raven), a Flappy Bird clone made in Godot 3.5. I used the Flappy Godot template above to create this game. Avoid the wind turbines and thunderclouds!
 
 ## Game Jam Submissions
 
