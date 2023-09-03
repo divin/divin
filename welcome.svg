@@ -1,0 +1,169 @@
+<svg fill="none" viewBox="0 0 880 880" width="880" height="880" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject width="100%" height="100%">
+        <link type="text/css" href="http://fonts.googleapis.com/css?family=Lato:400,700" rel="stylesheet"/>
+        <div xmlns="http://www.w3.org/1999/xhtml">
+            <style>
+                .body {
+                    width: 100%;
+                    height: 100%;
+                    padding: 1rem;
+
+                    display: flex;
+                    flex-direction: column;
+                    align-items: left;
+                    justify-content: center;
+                    font-family: 'Lato', sans-serif;
+
+                    color: rgb(21, 5, 57);
+                    background-color: rgb(250, 243, 223);
+                }
+
+                .heading {
+                    width: 100%;
+                    flex: 1 1 auto;
+
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                }
+
+                .heading img {
+                    flex: 1 1 50%;
+                    max-width: 224px;
+                }
+
+                .heading div {
+                    flex: 1 1 50%;
+                    display: flex;
+                    flex-direction: column;
+                    align-items: left;
+                    font-size: 1.25rem;
+                    padding: 1rem;
+                }
+
+                .heading div h3 {
+                    margin: 0;
+                    padding: 0;
+                }
+
+                .heading div p {
+                    max-width: 440px;
+                    font-weight: 500;
+                    font-style: italic;
+                }
+
+                .about {
+                    width: 100%;
+                    flex: 1 1 auto;
+                }
+
+                .about p {
+                    max-width: 660px;
+                }
+
+                .projects {
+                    width: 100%;
+                    flex: 1 1 auto;
+
+                    wrap: wrap;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: flex-start;
+                    overflow-x: auto;
+                }
+
+                .project {
+                    flex: 1 1 25%;
+                    max-height: 440px;
+
+                    gap: 1rem;
+                    display: flex;
+                    align-items: center;
+                    flex-direction: column;
+                    justify-content: center;
+                    text-align: center;
+                    padding: 1.0rem;
+                }
+
+                .project a {
+                    gap: 0.75rem;
+                    display: flex;
+                    flex-direction: column;
+                    color: rgb(21, 5, 57);
+                    text-decoration: none;
+                }
+
+                .project a h4 {
+                    margin: 0;
+                    padding: 0;
+                }
+
+                .project a img {
+                    flex: 1 1 25%;
+                    max-width: 229px;
+                    height: auto;
+                    border-radius: 1rem;
+                }
+
+                .project a p {
+                    padding: 0;
+                    margin: 0;
+                    flex: 1 1 50%;
+                    max-width: 229px;
+                    font-size: 1.0rem;
+                }
+            </style>
+
+            <div class="body">
+                
+                <div class="heading">
+                    <img src="https://i.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.webp"></img>
+                    <div>
+                        <h3>I'm <b>Divin</b>, a <b>Data Scientist</b> from <b>Germany</b>.</h3>
+                        <p>
+                            "Why spend 5 minutes doing something manually when you can spend 5 hours failing to automate it?" - A wise man
+                        </p>
+                    </div>
+                </div>
+
+                <h3>About me 🙋‍♂️</h3>
+
+                <div class="about">
+                    <p>I'm interested in many different topics, such as Machine Learning, Data Science, Web Development, Game Development and many more.</p>
+                    <p>Feel free to browse my repositories and check out my projects. If you have any questions, feel free to contact me. Everything I do is open source.</p>
+                </div>
+
+                <h3>My latest projects 👨‍💻</h3>
+
+                <div class="projects">
+
+                    <div class="project">
+                        <a href="https://divingavran.itch.io/flappy-raven">
+                            <img src="https://www.divingavran.com/images/flappy-raven.png"></img>
+                            <h4>Flappy Raven</h4>
+                            <p>Flappy Raven is a game I made in Godot. It's a clone of the popular game Flappy Bird.</p>
+                        </a>
+                    </div>
+
+                    <div class="project">
+                        <a href="https://divingavran.itch.io/the-royal-game-of-ur">
+                            <img src="https://www.divingavran.com/images/the-royal-game-of-ur.png"></img>
+                            <h4>The Royal Game of Ur</h4>
+                            <p>I made this game in Godot for a Game Jam. It's a digital version of the ancient board game The Royal Game of Ur.</p>
+                        </a>
+                    </div>
+
+                    <div class="project">
+                        <a href="https://divingavran.itch.io/blob-out">
+                            <img src="https://www.divingavran.com/images/blob-out.png"></img>
+                            <h4>Blob Out!</h4>
+                            <p>First game I made for a Game Jam. It's a simple platformer made in Godot.</p>
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+        </div>
+  </foreignObject>
+</svg>
