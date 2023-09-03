@@ -117,7 +117,7 @@
             <div class="body">
                 
                 <div class="heading">
-                    <img src="https://i.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.webp"></img>
+                    <img src="assets/giphy.webp"></img>
                     <div>
                         <h3>I'm <b>Divin</b>, a <b>Data Scientist</b> from <b>Germany</b>.</h3>
                         <p>
@@ -139,7 +139,7 @@
 
                     <div class="project">
                         <a href="https://divingavran.itch.io/flappy-raven">
-                            <img src="https://www.divingavran.com/images/flappy-raven.png"></img>
+                            <img src="assets/flappy-raven.png"></img>
                             <h4>Flappy Raven</h4>
                             <p>Flappy Raven is a game I made in Godot. It's a clone of the popular game Flappy Bird.</p>
                         </a>
@@ -147,7 +147,7 @@
 
                     <div class="project">
                         <a href="https://divingavran.itch.io/the-royal-game-of-ur">
-                            <img src="https://www.divingavran.com/images/the-royal-game-of-ur.png"></img>
+                            <img src="assets/the-royal-game-of-ur.png"></img>
                             <h4>The Royal Game of Ur</h4>
                             <p>I made this game in Godot for a Game Jam. It's a digital version of the ancient board game The Royal Game of Ur.</p>
                         </a>
@@ -155,7 +155,7 @@
 
                     <div class="project">
                         <a href="https://divingavran.itch.io/blob-out">
-                            <img src="https://www.divingavran.com/images/blob-out.png"></img>
+                            <img src="assets/blob-out.png"></img>
                             <h4>Blob Out!</h4>
                             <p>First game I made for a Game Jam. It's a simple platformer made in Godot.</p>
                         </a>
