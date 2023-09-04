@@ -1,19 +1,17 @@
-<h1 align = "center">
-Hello there 👋
-</h1>
+# Hi. I'm Divin 👋
 
-<p align = "center"> Here is a list of my repositories (it will grow, I promise 🤞), feel free to browse around ✌️ </p>
+<p align="left">
+    <a href="https://github.com/divin">
+        <img alt="GitHub followers" src="https://img.shields.io/github/followers/divin?label=Follow&style=social">
+    </a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+    <a href="https://www.youtube.com/channel/UCA5EYbFlu6q915Y4wRjKNiw">
+        <img alt="YouTube Channel Subscribers" src="https://img.shields.io/youtube/channel/subscribers/UCA5EYbFlu6q915Y4wRjKNiw">
+    </a>
+</p>
 
-## Games
+<img src="assets/wave.png" align="right" height="275"/>
 
-<p align = "center"> Here are some games I have made. The link will take you to the GitHub repository or the itch.io page. </p>
+I'm a **Data Scientist** from **Germany** 🇩🇪. I always have a new project in mind and love to learn new things. I'm interested in **machine learning** 🤖 (especially **computer vision** and **natural language processing**), **web development** 🕸️ and **game development** 🎮. I love open source and therefore publish most of my projects on GitHub.
 
-* [**🐥 Flappy Raven**](https://divins.itch.io/flappy-raven), a Flappy Bird clone made in Godot 3.5. Avoid the wind turbines and thunderclouds!
-
-## Game Jam Submissions
-
-<p align = "center"> Here are some links to games I have created for Game Jams, the links lead to the respective itch.io page. </p>
-
-* [**💚 Blob Out!**](https://divins.itch.io/blob-out), short and trashy prototype of a platform game with a blob and his host trying to escape from a facility. Made for the Lost Relic Games - Game Jam, with the theme: Connection.
-
-* [**🎲 The Royal Game of Ur**](https://divins.itch.io/the-royal-game-of-ur), one of the oldest board games turned into a video game. Need to be played with a friend! Made for the GMTK Game Jam 2022, with the theme: Roll of the Dice.
+Feel free to browse my repositories and contact me if you have any questions.
