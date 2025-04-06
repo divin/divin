@@ -2,8 +2,8 @@
 
 <img src="assets/wave.png" align="right" height="294"/>
 
-I'm a **Data Scientist** 👨‍💻 from **Germany** 🇩🇪. I always have a new project in mind and love to learn new things. 
+I'm a **Data Scientist** with a **background in Physics** who loves **coding** and digging into **complex data** to find **cool insights**.
 
-I'm interested in **machine learning** 🤖 (especially **computer vision** and **natural language processing**), **web development** 🕸️ and **game development** 🎮. But I also like to make **music** 🥁 and **art** 🎨.
+When I'm not **crunching numbers**, **training machine learning models**, or **building data pipelines**, you'll probably find me diving into some **creative projects**. I dabble in **music**, **drawing**, **app**, and **game development**. The last one is a perfect mix of all my interests.
 
 Feel free to browse my repositories and contact me if you have any questions.
